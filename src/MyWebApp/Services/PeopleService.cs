@@ -11,7 +11,7 @@ namespace MyWebApp.Services
     {
         private PeopleContext _context;
 
-        public PeopleService(PeopleContext context)
+        public peopleservice(peoplecontext context)
 
         {
 
